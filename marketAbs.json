@@ -1,0 +1,30 @@
+{
+  "Products": [
+    {
+      "ProductId": 1,
+      "ProductName": "Leche",
+      "Stock": 12,
+      "MinStock": 6,
+      "MaxStock": 24,
+      "SalePrice": 2000.0,
+      "PurchasePrice": 1500.0,
+      "CategoryId": 1
+    },
+    {
+      "ProductId": 2,
+      "ProductName": "Yogurt",
+      "Stock": 8,
+      "MinStock": 5,
+      "MaxStock": 15,
+      "SalePrice": 1500.0,
+      "PurchasePrice": 1200.0,
+      "CategoryId": 1
+    }
+  ],
+  "Categories": [
+    {
+      "CategoryId": 1,
+      "CategoryName": "Lacteos"
+    }
+  ]
+}

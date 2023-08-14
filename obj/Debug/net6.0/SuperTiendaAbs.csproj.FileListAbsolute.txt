@@ -1,0 +1,17 @@
+/home/Juarika/Desktop/c#/SuperTiendaAbs/bin/Debug/net6.0/SuperTiendaAbs
+/home/Juarika/Desktop/c#/SuperTiendaAbs/bin/Debug/net6.0/SuperTiendaAbs.deps.json
+/home/Juarika/Desktop/c#/SuperTiendaAbs/bin/Debug/net6.0/SuperTiendaAbs.runtimeconfig.json
+/home/Juarika/Desktop/c#/SuperTiendaAbs/bin/Debug/net6.0/SuperTiendaAbs.dll
+/home/Juarika/Desktop/c#/SuperTiendaAbs/bin/Debug/net6.0/SuperTiendaAbs.pdb
+/home/Juarika/Desktop/c#/SuperTiendaAbs/obj/Debug/net6.0/SuperTiendaAbs.csproj.AssemblyReference.cache
+/home/Juarika/Desktop/c#/SuperTiendaAbs/obj/Debug/net6.0/SuperTiendaAbs.GeneratedMSBuildEditorConfig.editorconfig
+/home/Juarika/Desktop/c#/SuperTiendaAbs/obj/Debug/net6.0/SuperTiendaAbs.AssemblyInfoInputs.cache
+/home/Juarika/Desktop/c#/SuperTiendaAbs/obj/Debug/net6.0/SuperTiendaAbs.AssemblyInfo.cs
+/home/Juarika/Desktop/c#/SuperTiendaAbs/obj/Debug/net6.0/SuperTiendaAbs.csproj.CoreCompileInputs.cache
+/home/Juarika/Desktop/c#/SuperTiendaAbs/obj/Debug/net6.0/SuperTiendaAbs.dll
+/home/Juarika/Desktop/c#/SuperTiendaAbs/obj/Debug/net6.0/refint/SuperTiendaAbs.dll
+/home/Juarika/Desktop/c#/SuperTiendaAbs/obj/Debug/net6.0/SuperTiendaAbs.pdb
+/home/Juarika/Desktop/c#/SuperTiendaAbs/obj/Debug/net6.0/SuperTiendaAbs.genruntimeconfig.cache
+/home/Juarika/Desktop/c#/SuperTiendaAbs/obj/Debug/net6.0/ref/SuperTiendaAbs.dll
+/home/Juarika/Desktop/c#/SuperTiendaAbs/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/Juarika/Desktop/c#/SuperTiendaAbs/obj/Debug/net6.0/SuperTiendaAbs.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E6dwXXmc7cQi4L0QTnlhHs6XRNaqlNB94OjYSaMGKwvtsRrXzQMtsawicIiafJSsovN70M8UvcVMyluDkXQJ2A==",
+  "success": true,
+  "projectFilePath": "/home/Juarika/Desktop/c#/SuperTiendaAbs/SuperTiendaAbs.csproj",
+  "expectedPackageFiles": [
+    "/home/Juarika/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
